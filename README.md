@@ -1,4 +1,4 @@
-# ***<div align="center">Hello 👋! I'm Juan Gualdron</div>***  
+# ***<div align="center">Hello!👋 I'm Juan Gualdron</div>***  
   
 
 ### <div align="center">💻 My passion is the Web Development,  💡 I love making ideas come true :)</div>  
